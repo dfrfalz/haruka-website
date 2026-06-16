@@ -125,7 +125,7 @@ export default function PortfolioPage() {
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-slate-800 leading-tight">
               Tingkatkan Chat<br />
               WhatsApp dengan<br />
-              <span className="text-transparent bg-clip-text bg-[linear-gradient(110deg,#2563eb,45%,#cffafe,55%,#06b6d4)] bg-[length:250%_100%] animate-[text-shimmer_2.5s_linear_infinite] drop-shadow-[0_0_25px_rgba(6,182,212,0.8)]">Haruka AI.</span>
+              <span className="text-transparent bg-clip-text bg-[linear-gradient(110deg,#2563eb,45%,#cffafe,55%,#06b6d4)] bg-[length:250%_100%] animate-[text-shimmer_6s_linear_infinite] drop-shadow-[0_0_25px_rgba(6,182,212,0.8)]">Haruka AI.</span>
             </h1>
             <p className="text-lg sm:text-xl text-slate-600 max-w-lg leading-relaxed">
               Bot WhatsApp cerdas dengan desain elegan dan fitur modern. Haruka siap membantu membalas pesan, membuat stiker, hingga mengelola grup secara otomatis.
